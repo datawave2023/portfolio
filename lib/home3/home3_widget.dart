@@ -126,7 +126,7 @@ class _Home3WidgetState extends State<Home3Widget> {
                                   Align(
                                     alignment: AlignmentDirectional(0.0, 0.0),
                                     child: Text(
-                                      'Tactica 4.0',
+                                      'Datawave',
                                       style: FlutterFlowTheme.of(context)
                                           .titleMedium
                                           .override(
